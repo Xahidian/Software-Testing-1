@@ -1,4 +1,4 @@
-# University Assignment: Test Cases, Control Flow Graph, Mutation Test, and Test Path Coverage
+#Test Cases, Control Flow Graph, Mutation Test, and Test Path Coverage
 
 ## Overview
 This repository contains my work for the university project where I explored various testing concepts and tools related to Java development. The main topics covered are:
